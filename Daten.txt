@@ -1,3 +1,4 @@
 Hallo Welt
 
 Eine neue Zeile für den Feature-Branch
+Merge Konflikte lassen sich mit der GUI leicht lösen
