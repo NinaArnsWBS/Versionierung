@@ -1,3 +1,1 @@
-Hello World
-
-This is a line of text
+Hallo Welt
