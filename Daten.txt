@@ -1,4 +1,5 @@
 Hallo Welt
 
 Eine neue Zeile für den Feature-Branch
+Merge Conflicts sind nervig
 Merge Konflikte lassen sich mit der GUI leicht lösen
